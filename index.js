@@ -5,7 +5,9 @@ var port = 5000;
 var users= [
     {id: 1, name: 'tung'},
     {id: 2, name: 'tan'},
-    {id: 3, name: 'trung'}
+    {id: 3, name: 'trung'},
+    {id: 4, name: 'hung'},
+    {id: 5, name: 'lan'}
 ];
 
 app.set('view engine', 'pug');
