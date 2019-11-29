@@ -7,7 +7,8 @@ var users= [
     {id: 2, name: 'tan'},
     {id: 3, name: 'trung'},
     {id: 4, name: 'hung'},
-    {id: 5, name: 'lan'}
+    {id: 5, name: 'lan'},
+    {id: 6, name: 'han'}
 ];
 
 app.set('view engine', 'pug');
